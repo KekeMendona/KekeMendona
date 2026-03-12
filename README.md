@@ -3,7 +3,7 @@
 <p align="center">
 💗 Estudante de Desenvolvimento de Sistemas <br>
 💻 Focada em PHP, Java e Desenvolvimento Fullstack <br>
-🌷 17 anos | Apaixonada por tecnologia e aprendizado
+🌷| Apaixonada por tecnologia e aprendizado
 </p>
 
 ---
